@@ -1,0 +1,10 @@
+{
+    "name" : "Qt",
+    "version" : "0.0.1",
+    "author" : "github:sergot",
+    "description" : "Qt (5) bindings for Perl 6",
+    "depends" : [
+        "NativeCall"
+    ],
+    "source-url" : "git://github.com/sergot/perl6-qt.git"
+}
